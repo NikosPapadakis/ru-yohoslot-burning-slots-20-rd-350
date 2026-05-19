@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ru-yohoslot-burning-slots-20-350.onrender.com/sitemap.xml
